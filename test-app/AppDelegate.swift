@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  test-app
 //
-//  Created by Admin on 22.10.17.
+//  Created by metasemenov on 22.10.17.
 //  Copyright © 2017 metasemenov. All rights reserved.
 //
 
